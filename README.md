@@ -15,7 +15,7 @@ Providing the code for applying and understanding ML for practical biological pr
 ## Contents
 [0. DNA and protein sequence representation with LLM/foundation model](/0_sequence-embedding-LLM.ipynb)
 
-[1. DNA sequence to protein expression models](/1_STE-model.ipynb)
+[1. Simple but useful - linear models](/1_linear-model.ipynb)
 
 
 
