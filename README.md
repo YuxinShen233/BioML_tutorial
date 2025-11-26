@@ -2,26 +2,31 @@
 
 
 ## Aim
-Providing the code for applying and understanding ML for practical biological problems:
+Providing the code for applying and understanding ML for the following practical biological problems:
 - DNA and protein sequence representation
-- DNA sequence to protein expression prediction
-- Protein sequence-to-function modelling
-- Biological motif extraction
+- Sequence to fitness prediction
 - Single-cell analysis and clustering
-- Gene networks
-- Synthetic gene circuits
+- Sequence optimization
+- Explainable AI in biology
+- Embedding of chemical structure
+- Sturcutral biology
 
 
 ## Contents
+The contents are mainly arranged by different ML algorithms:
+
 [0. DNA and protein sequence representation with LLM/foundation model](/0_sequence-embedding-LLM.ipynb)
 
 [1. Simple but useful - linear models](/1_linear-model.ipynb)
+
+[2. Nonlinear models: RF, SVR and MLP](/2_nonlinear-model.ipynb)
+
 
 
 
 ## How to use
 Machine learning, especially LLM, has large dependency on Python packages. The package requirement can be installed through the following command:
-<pre> pip install -r requirements.txt</pre>
+<pre> conda env create -f environment.yml</pre>
 
 
 ## From the author
