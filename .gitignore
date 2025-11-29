@@ -1,0 +1,4 @@
+*.tsv.gz.tsv
+*.gz
+*.tsv
+*.DS_Store

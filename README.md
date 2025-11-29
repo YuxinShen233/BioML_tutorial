@@ -21,7 +21,10 @@ The contents are mainly arranged by different ML algorithms:
 
 [2. Nonlinear models: RF, SVR and MLP](/2_nonlinear-model.ipynb)
 
+[3. Deep Learning models](/3_DL-model.ipynb)
 
+
+4. Single-cell transcriptomic and multiomics
 
 
 ## How to use
