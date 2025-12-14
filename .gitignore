@@ -1,4 +1,6 @@
 *.tsv.gz.tsv
 *.gz
 *.tsv
+*.rar
+*.tar
 *.DS_Store
