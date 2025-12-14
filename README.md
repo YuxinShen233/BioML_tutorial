@@ -25,7 +25,7 @@ The contents are mainly arranged by different ML algorithms:
 
 [4. Single-cell transcriptomic and multiomics](/4_single-cell.ipynb)
 
-[5. Spatial omics](/5_spatial-omics.ipynb)) (using uv environment)
+[5. Spatial omics](/5_spatial-omics.ipynb) (using uv environment)
 
 ## How to use
 Machine learning, especially LLM, has large dependency on Python packages. The package requirement can be installed through the following command:
